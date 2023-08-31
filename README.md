@@ -1,1 +1,3 @@
-Working on task 0. Where am I ?
+#!/bin/bash
+Read The F**king Manual
+why?
